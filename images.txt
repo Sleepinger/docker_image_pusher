@@ -5,3 +5,5 @@ kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
 wso2/wso2am:latest
 nginx/nginx-ingress:2.4.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+registry.k8s.io/ingress-nginx/controller:v1.11.2
