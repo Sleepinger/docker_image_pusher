@@ -7,3 +7,9 @@ wso2/wso2am:latest
 nginx/nginx-ingress:2.4.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 registry.k8s.io/ingress-nginx/controller:v1.11.2
+nginx:latest
+elasticsearch:latest
+redis:latest
+node:latest
+mysql:latest
+rabbitmq:latest
