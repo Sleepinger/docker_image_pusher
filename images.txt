@@ -4,3 +4,4 @@ docker.io/calico/kube-controllers:v3.27.4
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
 wso2/wso2am:latest
+nginx/nginx-ingress:2.4.0
